@@ -37,7 +37,7 @@ Simply copy file ``BRFluentModule.swift`` into your project , and it is ready to
 
 
 ## Usage
-### create object , add a **postfix operator** of ``^+`` after the object that want to write in fluent interface , then end with **postfix operator** of ``^-`` to avoid unused warning .
+create object , add a **postfix operator** of ``^+`` after the object that want to write in fluent interface , then end with **postfix operator** of ``^-`` to avoid unused warning .
 ```swift
     let button = UIButton()
     button^+
