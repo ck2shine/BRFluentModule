@@ -10,7 +10,7 @@ Pod::Spec.new do |s|
   s.name             = 'BRFluentModule'
   s.version          = '1.0.0'
   s.summary          = 'BRFluentModule is a swift wrapper for fluent interface.'
-
+  s.swift_versions   = '5.1'
 # This description is used to generate tags and improve search results.
 #   * Think: What does it do? Why did you write it? What is the focus?
 #   * Try to keep it short, snappy and to the point.
