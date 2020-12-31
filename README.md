@@ -1,6 +1,8 @@
 # BRFluentModule
 [![Carthage compatible](https://img.shields.io/badge/Carthage-compatible-4BC51D.svg?style=flat)](https://github.com/Carthage/Carthage)
 [![SPM supported](https://img.shields.io/badge/SPM-supported-DE5C43.svg?style=flat)](https://swift.org/package-manager)
+[![Version](https://img.shields.io/cocoapods/v/BRFluentModule.svg)](http://cocoadocs.org/docsets/BRFluentModule)
+[![Platform](https://img.shields.io/cocoapods/p/BRFluentModule.svg)](http://cocoadocs.org/docsets/BRFluentModule)
 
 BRFluentModule is a simple swift wrapper for creating swift object in fluent interface , just like SwiftUI . 
 * In SwiftUI , it can write like this 
@@ -30,6 +32,15 @@ BRFluentModule is available through [Carthage](https://github.com/Carthage/Carth
 * BRFluentModule is also available through [Swift Package Manager](https://github.com/apple/swift-package-manager/).
 * Select File > Swift Packages > Add Package Dependency
 * Search for https://github.com/ck2shine/BRFluentModule.git
+
+### CocoaPods
+
+BRFluentModule is available through [CocoaPods](http://cocoapods.org). For installation , add the following lines to your Podfile:
+
+```ruby
+use_frameworks!
+pod 'BRFluentModule'
+```
 
 ### Install Manually
 
